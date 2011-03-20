@@ -1,3 +1,5 @@
 config
 nodecheck.py
 protocols.py
+*.pyc
+*.html
